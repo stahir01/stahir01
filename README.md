@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Processing satellite images using Pytorch**
 
-- 🌱 I’m currently learning **Unsupervised machine learning and Image processing of satellite data**
+- 🌱 I’m currently learning **Unsupervised Machine Learning**
 
 - 📫 How to reach me **syed.alimurad.tahir@gmail.com**
 
