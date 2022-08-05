@@ -2,7 +2,7 @@
 <h3 align="center">Data & BI Engineer</h3>
 <h4 align="center">Currently doing my master in Wirtschaftsinformatik at TU berlin</h4>
 
-- 🔭 I’m currently working on **Processing satellite images using Pytorch**
+- 🔭 I’m currently working on **Machine Learning projects**
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning**
 
