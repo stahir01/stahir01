@@ -2,8 +2,8 @@
 <h3 align="center">Data & BI Engineer</h3>
 <h4 align="center">Currently doing my master in Wirtschaftsinformatik at TU berlin</h4>
 
-
-- 📫 How to reach me **syed.alimurad.tahir@gmail.com**
+<h5>Hello, I'm Burny</h5>
+I am Ali Murad but the majority of people call me Burny. I did my bachelor in Elektrotechnik and specialized in Telecommunications and RF systems technology. I am currently doing my master at TU Berlin.
 
 
 <h3 align="left">Connect with me:</h3>
