@@ -5,10 +5,11 @@
 <h5>Hello, I'm Burny</h5>
 I am Ali Murad, but the majority of people call me Burny. I did my Bachelor's in Elektrotechnik, specializing in Telecommunications and RF systems technology. I am currently doing my Master's at TU Berlin, specializing in Data Science & Machine Learning. <br><br>
 
+<!--
+
 You can view my profile at https://stahir01.github.io/.
 
 
-<!--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
