@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Nice to meet you</h1>
 <h3 align="center">Data & BI Engineer</h3>
-<h4 align="center">Currently doing my master in Wirtschaftsinformatik at TU berlin</h4>
+<h4 align="center">Currently doing my master TU berlin</h4>
 
 <h5>Hello, I'm Burny</h5>
 I am Ali Murad, but the majority of people call me Burny. I did my Bachelor's in Elektrotechnik, specializing in Telecommunications and RF systems technology. I am currently doing my Master's at TU Berlin, specializing in Machine Learning. <br><br>
