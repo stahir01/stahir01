@@ -3,7 +3,7 @@
 <h4 align="center">Currently pursuing my Master at TU Berlin</h4>
 
 <h5>Hello, I'm Burny</h5>
-I am Ali Murad, but the majority of people call me Burny. I did my Bachelor's in Elektrotechnik, specializing in Telecommunications and RF systems technology. I am currently doing my Master's at TU Berlin, specializing in Data Science & Machine Learning. <br><br>
+I am Ali Murad, but the majority of people call me Burny. I am currently doing my Master's at TU Berlin, specializing in Data Science & Machine Learning. <br><br>
 
 
 <!--
