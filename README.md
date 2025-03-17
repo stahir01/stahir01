@@ -144,7 +144,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://python.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/img/logo.png" alt="LangChain" width="40" height="40"/>
+    <img src="Images/langchain.svg" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="Images/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
