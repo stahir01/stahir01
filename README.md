@@ -82,32 +82,32 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
   </a>
   <a href="https://www.getdbt.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/39384345?s=200&v=4" alt="dbt" width="40" height="40"/>
+    <img src="Images/LogosDbtIcon.svg" alt="dbt" width="40" height="40"/>
   </a>
   <a href="https://airbyte.com/" target="_blank">
-    <img src="https://assets.airbyte.com/brand/airbyte-logo.png" alt="Airbyte" width="40" height="40"/>
+    <img src="Images/airbyte-inc-logo-vector.svg" alt="Airbyte" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com/bigquery" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Google_BigQuery_logo.svg" alt="BigQuery" width="40" height="40"/>
+    <img src="Images/bigquery-svgrepo-com.svg" alt="BigQuery" width="40" height="40"/>
   </a>
 </p>
 
 #### Visualization Platforms
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Microsoft_Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
+    <img src="Images/power-bi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+    <img src="Images/tableau-svgrepo-com.svg" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://www.metabase.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Metabase_logo.svg" alt="Metabase" width="40" height="40"/>
+    <img src="Images/metabase-svgrepo-com.svg" alt="Metabase" width="40" height="40"/>
   </a>
   <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Google_Data_Studio_Logo.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="Images/looker-svgrepo-com.svg" alt="Looker Studio" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grafana_logo.svg" alt="Grafana" width="40" height="40"/>
+    <img src="Images/grafana-svgrepo-com.svg" alt="Grafana" width="40" height="40"/>
   </a>
 </p>
 
@@ -147,7 +147,7 @@
     <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/img/logo.png" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="Images/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
