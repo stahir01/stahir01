@@ -127,7 +127,6 @@
   </a>
 </p>
 
----
 
 #### Libraries and Frameworks
 <p align="left">
