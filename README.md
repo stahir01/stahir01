@@ -89,6 +89,9 @@
   <a href="https://cloud.google.com/bigquery" target="_blank">
     <img src="Images/bigquery-svgrepo-com.svg" alt="BigQuery" width="40" height="40"/>
   </a>
+    <a href="https://www.snowflake.com/" target="_blank">
+    <img src="Images/Snowflake.svg" alt="Snowflake" width="40" height="40"/>
+  </a>
 </p>
 
 #### Visualization Platforms
