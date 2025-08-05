@@ -19,9 +19,9 @@
 </p>
 
 ---
-
 - 🔭 I’m currently working on **Data Engineering & Machine Learning** projects.
-- 🔍 Exploring innovative **AI Agents** and deep diving into **MLOps**.
+- 🌱 I'm currently learning **AWS**.
+- 🔍 I plan to explore innovative **AI Agents** and deep dive into **MLOps**.
 - ⚡ Fun fact: I do photography in my free time.
 - 🔗 Feel free to **connect with me on LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/syed-ali-murad-tahir)
 
