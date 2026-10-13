@@ -1,6 +1,6 @@
 <!-- Banner or Title -->
 <h1 align="center">Hello, I'm Burny!</h1>
-<h3 align="center">ML & Data Engineer | TU Berlin Graduate </h3>
+<h3 align="center"> Data Engineer | TU Berlin Graduate </h3>
 
 <!-- Typing SVG (Optional) -->
 <p align="center">
@@ -111,6 +111,9 @@
   <a href="https://grafana.com/" target="_blank">
     <img src="Images/grafana-svgrepo-com.svg" alt="Grafana" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@HEAD/logos/aws-quicksight.svg" alt="AWS QuickSight" width="40" height="40"/>
+  </a>
 </p>
 
 #### Deployment & Collaboration
@@ -126,6 +129,9 @@
   </a>
   <a href="https://gitlab.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
 
